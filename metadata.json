@@ -1,0 +1,6 @@
+{
+  "name": "HanyuLab - Nền tảng Tự học Tiếng Trung chuẩn Giáo trình",
+  "description": "Nền tảng tự học tiếng Trung chuẩn giáo trình HSK với bài khóa tương tác, từ vựng chi tiết, ngữ pháp chuyên sâu, luyện viết chữ Hán và luyện phát âm thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
